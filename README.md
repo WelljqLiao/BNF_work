@@ -34,6 +34,8 @@ It explores:
 
 ### `2_Interim/`
 - Intermediate variables and model outputs
+- Please download these four large files output from models in branch 'master' and then put them back into ./2-interim.
+`FNF_predict0520.mat`,`FNFallmodel_0520.mat`,`SNF_predict0520.mat`,`SNFallmodel_0520.mat`
 
 ### `3_Results/`
 - Final figures (Figures 1 to 4)
